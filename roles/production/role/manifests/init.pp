@@ -1,3 +1,3 @@
 class role {
-	include 'newrelic' include 'newrelic::php'
+	include 'newrelic' include 'newrelic::server'
 }
