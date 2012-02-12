@@ -3,4 +3,3 @@ version '0.0.0'
 
 dependency 'cloudsmith/apache2', '>=0.1.0'
 dependency 'cloudsmith/newrelic', '>=0.1.0'
-dependency 'cloudsmith/php5', '>=0.1.0'
