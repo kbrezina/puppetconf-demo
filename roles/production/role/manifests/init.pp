@@ -1,3 +1,6 @@
 class role {
-	include 'newrelic::server'
+	include 'apache2' class {
+		'newrelic::server' :
+			collector_host => 'staging-collector.newrelic.com'
+	}
 }
