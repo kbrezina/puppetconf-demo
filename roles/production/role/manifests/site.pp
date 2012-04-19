@@ -1,2 +1,2 @@
-$newrelic_license = 'd827c26942818e3635f01e93e0b6aad56d724758'
+$newrelic_license = '114fc274996d94855a5867226b2b0e0a051ae4f1'
 include 'role'
